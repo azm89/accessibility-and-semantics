@@ -1,9 +1,11 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors select all of that element type */
 body {
     background-color: #d9dcd6;
 }
@@ -15,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/* Class Selectors select all elements with that class */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Id Selectors are unique a unique id to identify an element */
 .hero {
     height: 800px;
     width: 100%;
