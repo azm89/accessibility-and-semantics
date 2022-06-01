@@ -12,4 +12,4 @@ This project I explored accesibility and HTML semantics. To this page I added a 
 
 ## Usage
 
-![Screenshot of Horiseon Website](assets/images/screenshot.png)
+![Screenshot of Horiseon Website](/assets/images/screeshot.png?raw=true)
